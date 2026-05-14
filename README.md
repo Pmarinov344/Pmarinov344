@@ -134,15 +134,8 @@ These qualities strongly influence my approach to software engineering.
 - 📱 0882729591
 - 💻 GitHub: https://github.com/Pmarinov344
 
----
 
-## 📈 GitHub Stats
 
-![Preslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pmarinov344&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmarinov344&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Current Goals
 
