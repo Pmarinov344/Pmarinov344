@@ -36,7 +36,6 @@ I enjoy building maintainable software using SOLID, DRY, and KISS principles and
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
 ### 🧪 Testing
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
