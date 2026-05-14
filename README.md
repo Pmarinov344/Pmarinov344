@@ -104,16 +104,7 @@ A full-stack application with advanced role-based permissions, REST APIs, and ef
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pmarinov344&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmarinov344&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
 
 ## 🎯 Current Goals
 
