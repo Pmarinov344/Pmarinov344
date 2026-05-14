@@ -1,22 +1,48 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Preslav%20Marinov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Clean%20Code&descAlignY=58&descSize=20" />
+
 # 👋 Hi, I'm Preslav Marinov
 
-💻 Junior Java Developer passionate about clean code, scalable architecture, and backend development.
+### 💻 Junior Java Developer | Java | Spring Boot | REST APIs | SQL
 
-🎓 M.Sc. in Project Management at Technical University of Sofia  
-🎓 B.Eng. in Computer and Software Engineering  
-📍 Sofia, Bulgaria
+📍 Sofia, Bulgaria • 🎓 Technical University of Sofia • 🚀 Passionate about building scalable backend applications
+
+<p>
+  <a href="mailto:marinovpreslav65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Pmarinov344">
+    <img src="https://img.shields.io/badge/GitHub-Pmarinov344-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Pmarinov344&style=for-the-badge&color=0e75b6" alt="Profile views" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a motivated Junior Java Developer with strong knowledge of Java, Spring Boot, Hibernate, REST APIs, and SQL.
+```java
+PreslavMarinov developer = new PreslavMarinov();
 
-Currently working as a Data Analyst / Technical Support at BG Toll, where I analyze large-scale datasets and optimize technical workflows.
-
-I enjoy building maintainable software using SOLID, DRY, and KISS principles and continuously improving my skills through practical projects and lifelong learning.
-
----
+developer.role = "Junior Java Developer";
+developer.location = "Sofia, Bulgaria";
+developer.currentJob = "Data Analyst / Technical Support at BG Toll";
+developer.focus = List.of(
+    "Java",
+    "Spring Boot",
+    "REST APIs",
+    "SQL",
+    "Clean Code",
+    "Scalable Architecture"
+);
+developer.principles = List.of("SOLID", "DRY", "KISS");
 
 ## 🛠️ Tech Stack
 
