@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2038,100:2FB8AC&height=200&section=header&text=Preslav%20Marinov&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Junior%20Java%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2038,100:2FB8AC&height=200&section=header&text=Preslav%20Marinov&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Product%20Owner%20%C2%B7%20Software%20Engineering%20Background&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/Pmarinov344">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2FB8AC&center=true&vCenter=true&width=600&lines=Junior+Java+Developer;Java+%2B+Spring+Boot+%2B+REST+APIs;Clean%2C+Documented%2C+Scalable+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2FB8AC&center=true&vCenter=true&width=650&lines=Requirements+%2B+User+Stories+%2B+Backlog+Ownership;Agile%2FScrum+%C2%B7+Analytical+Thinking+%C2%B7+Stakeholder+Focus;From+Code+to+Product+Decisions" alt="Typing SVG" />
 </a>
 
 📍 Sofia, Bulgaria
@@ -21,60 +21,40 @@
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I am a Junior Java Developer focused on building clean, maintainable, and scalable backend applications — with hands-on experience taking a project from **requirements and documentation** through to a working system.
+I'm an analytically-minded professional transitioning from software engineering into **Product Ownership** — someone who has already lived on both sides of the table: writing the requirements *and* writing the code that implements them.
 
+- 🧩 Hands-on experience turning business needs into structured product documentation — functional & non-functional requirements, user stories, acceptance criteria, and a prioritized backlog
 - 🎓 M.Sc. in Project Management, Technical University of Sofia
 - 🎓 B.Eng. in Computer and Software Engineering, Technical University of Sofia
-- 💼 Data Analyst / Technical Support at BG Toll
-- 📚 Passionate about Java, Spring Boot, software architecture, and writing software that's properly specified before it's built
+- 💼 Data Analyst / Technical Support at BG Toll — turning large-scale operational data into actionable insight
+- 🎮 Growing interest in product management within the online gaming / iGaming industry
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Product & Business Skills
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-
-### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-### Testing
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![Spring Boot Test](https://img.shields.io/badge/Spring_Boot_Test-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-### Tools & Build
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Requirements Engineering](https://img.shields.io/badge/Requirements_Engineering-0F2038?style=flat-square)
+![User Stories](https://img.shields.io/badge/User_Stories_%26_Acceptance_Criteria-0F2038?style=flat-square)
+![Backlog](https://img.shields.io/badge/Backlog_Management_%26_Prioritization-0F2038?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%2FScrum_Ceremonies-2FB8AC?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis_%26_Reporting-2FB8AC?style=flat-square)
+![Stakeholder](https://img.shields.io/badge/Stakeholder_Communication-2FB8AC?style=flat-square)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project — Product Ownership in Practice
 
-### 🎓 Virtual Teacher
-An eLearning platform built with **Java & Spring Boot** where teachers publish courses and video lectures, and students enroll, submit assignments, and get graded. Includes an admin panel, ratings, and a Wikipedia lookup feature powered by the MediaWiki Action API.
+### 🎓 Virtual Teacher — Team Lead
+An eLearning platform where teachers publish courses and video lectures, and students enroll, submit assignments, and get graded — with an admin panel, ratings, and a Wikipedia lookup feature via the MediaWiki Action API.
 
-**My role:** I led the project as **Team Lead** and authored the complete technical/product documentation — scope, functional & non-functional requirements, a prioritized backlog of user stories with acceptance criteria and story-point estimates, system architecture, module decomposition, and the conceptual database model.
+**My role went beyond development.** As Team Lead, I owned the product definition end-to-end: I authored the full technical/product documentation (SRS) — system goals and scope, functional and non-functional requirements, a prioritized backlog of user stories with acceptance criteria and story-point estimates — then led the team through the SDLC, running planning and refinement, managing the backlog, and translating stakeholder needs into development-ready specs.
 
-`Java` `Spring Boot` `Hibernate` `REST` `MySQL` `Requirements Engineering` `Agile/Scrum`
+`Requirements Engineering` `User Stories` `Backlog Management` `SDLC` `Team Leadership` `Java` `Spring Boot`
 
 <details>
-<summary>📄 <b>View project documentation — scope, requirements & user stories</b></summary>
+<summary>📄 <b>View product documentation — scope, requirements & user stories</b></summary>
 
 <br>
 
@@ -109,7 +89,7 @@ An eLearning platform built with **Java & Spring Boot** where teachers publish c
 | Compatibility | Integration with external services (MediaWiki Action API) | Medium |
 | Legal | GDPR-compliant handling of personal data | Low |
 
-**Sample user stories:**
+**Sample user stories (backlog excerpt):**
 
 | ID | As a... | I want to... | So that... | Points |
 |---|---|---|---|---|
@@ -124,7 +104,7 @@ An eLearning platform built with **Java & Spring Boot** where teachers publish c
 </details>
 
 ### 💬 Forum Management System
-A full-stack application with advanced role-based permissions, REST APIs, and efficient SQL queries.
+Full-stack application with advanced role-based permissions, REST APIs, and efficient SQL queries — used here to explore how permission logic maps to real user roles and use cases.
 
 `Java` `Spring` `Hibernate` `ORM`
 
@@ -135,25 +115,39 @@ A full-stack application with advanced role-based permissions, REST APIs, and ef
 ### 📊 Data Analyst / Technical Support — BG Toll
 **December 2025 – Present**
 
-- Analyze large-scale datasets to improve operational efficiency
-- Optimize technical workflows
-- Provide technical support for complex systems
-- Ensure system reliability
+- Analyze large-scale datasets for national toll collection to identify trends and optimize operational efficiency and reliability
+- Translate technical and data findings into clear, actionable insights for cross-functional stakeholders
+- Support technical troubleshooting end-to-end, strengthening problem-solving and stakeholder communication
+
+---
+
+## 🛠️ Technical Foundation
+
+*The engineering background that lets me speak the same language as the development team.*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🎓 Education
 
-- 🎓 M.Sc. in Project Management — Technical University of Sofia
-- 🎓 B.Eng. in Computer and Software Engineering — Technical University of Sofia
-- 🚀 Alpha Java Track — Telerik Academy
+- 🎓 M.Sc. in Project Management — Technical University of Sofia *(2025 – Present)*
+- 🎓 B.Eng. in Computer and Software Engineering — Technical University of Sofia *(2021 – 2025)*
+- 🚀 Alpha Java Track — Telerik Academy (Intensive Professional Training)
 
 ---
 
 ## 🌍 Languages
 
 - 🇧🇬 Bulgarian — Native
-- 🇬🇧 English — Proficient
+- 🇬🇧 English — Fluent / Proficient
 
 ---
 
@@ -172,11 +166,11 @@ A full-stack application with advanced role-based permissions, REST APIs, and ef
 
 ## 🎯 Current Goals
 
-- Build production-ready Java applications
-- Learn microservices and cloud deployment
-- Strengthen testing and software quality practices
-- Contribute to open-source projects
-- Start my professional career as a Java Developer
+- Grow into a Product Owner role that blends technical fluency with analytical rigor
+- Deepen Agile/Scrum practice — backlog refinement, release planning, stakeholder alignment
+- Build a stronger understanding of the online gaming / iGaming product landscape
+- Keep sharpening the engineering skills that make cross-team communication effortless
+- Contribute to products end-to-end — from requirement to release
 
 ---
 
@@ -189,8 +183,8 @@ A full-stack application with advanced role-based permissions, REST APIs, and ef
 
 <div align="center">
 
-*"Clean code always looks like it was written by someone who cares."*
-— Robert C. Martin
+*"The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team."*
+— The Scrum Guide
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2FB8AC,100:0F2038&height=100&section=footer" width="100%"/>
 
