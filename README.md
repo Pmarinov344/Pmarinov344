@@ -46,12 +46,14 @@ I'm an analytically-minded professional transitioning from software engineering 
 
 ## 📌 Featured Project — Product Ownership in Practice
 
-### 🎓 Virtual Teacher — Team Lead
+### 🎓 [Virtual Teacher](https://github.com/FinalProjectTeam06/VirtualTeacher) — Team Lead
 An eLearning platform where teachers publish courses and video lectures, and students enroll, submit assignments, and get graded — with an admin panel, ratings, and a Wikipedia lookup feature via the MediaWiki Action API.
 
 **My role went beyond development.** As Team Lead, I owned the product definition end-to-end: I authored the full technical/product documentation (SRS) — system goals and scope, functional and non-functional requirements, a prioritized backlog of user stories with acceptance criteria and story-point estimates — then led the team through the SDLC, running planning and refinement, managing the backlog, and translating stakeholder needs into development-ready specs.
 
 `Requirements Engineering` `User Stories` `Backlog Management` `SDLC` `Team Leadership` `Java` `Spring Boot`
+
+**🔗 [View repository →](https://github.com/FinalProjectTeam06/VirtualTeacher)**
 
 <details>
 <summary>📄 <b>View product documentation — scope, requirements & user stories</b></summary>
@@ -103,10 +105,19 @@ An eLearning platform where teachers publish courses and video lectures, and stu
 
 </details>
 
-### 💬 Forum Management System
+### 💬 [Forum Management System](https://github.com/WebProjectForumTeam6/ForumSystem)
 Full-stack application with advanced role-based permissions, REST APIs, and efficient SQL queries — used here to explore how permission logic maps to real user roles and use cases.
 
 `Java` `Spring` `Hibernate` `ORM`
+
+**🔗 [View repository →](https://github.com/WebProjectForumTeam6/ForumSystem)**
+
+### 🗂️ [Task Management System](https://github.com/popito2/Task-Management-System)
+Console-based application organizing developer workflow tracking using core Java and OOP principles.
+
+`Java` `OOP` `Console Application`
+
+**🔗 [View repository →](https://github.com/popito2/Task-Management-System)**
 
 ---
 
@@ -148,19 +159,6 @@ Full-stack application with advanced role-based permissions, REST APIs, and effi
 
 - 🇧🇬 Bulgarian — Native
 - 🇬🇧 English — Fluent / Proficient
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pmarinov344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmarinov344&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pmarinov344&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-
-</div>
 
 ---
 
