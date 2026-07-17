@@ -46,7 +46,7 @@ I'm an analytically-minded professional transitioning from software engineering 
 
 ## 📌 Featured Project — Product Ownership in Practice
 
-### 🎓 [Virtual Teacher](https://github.com/FinalProjectTeam06/VirtualTeacher) — Team Lead
+### 🎓 [Virtual Teacher](https://github.com/FinalProjectTeam06/VirtualTeacher)
 An eLearning platform where teachers publish courses and video lectures, and students enroll, submit assignments, and get graded — with an admin panel, ratings, and a Wikipedia lookup feature via the MediaWiki Action API.
 
 **My role went beyond development.** As Team Lead, I owned the product definition end-to-end: I authored the full technical/product documentation (SRS) — system goals and scope, functional and non-functional requirements, a prioritized backlog of user stories with acceptance criteria and story-point estimates — then led the team through the SDLC, running planning and refinement, managing the backlog, and translating stakeholder needs into development-ready specs.
