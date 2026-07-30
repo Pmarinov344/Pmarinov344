@@ -17,6 +17,9 @@
   <a href="https://github.com/Pmarinov344">
     <img src="https://img.shields.io/badge/GitHub-0F2038?style=for-the-badge&logo=github&logoColor=2FB8AC" alt="GitHub" />
   </a>
+  <a href="tel:+359882729591">
+    <img src="https://img.shields.io/badge/0882_729_591-0F2038?style=for-the-badge&logo=whatsapp&logoColor=2FB8AC" alt="Phone" />
+  </a>
 </p>
 
 </div>
@@ -216,6 +219,9 @@ Console-based application organizing developer workflow tracking using core Java
 </a>
 <a href="https://github.com/Pmarinov344">
   <img src="https://img.shields.io/badge/Pmarinov344-0F2038?style=for-the-badge&logo=github&logoColor=2FB8AC" alt="GitHub" />
+</a>
+<a href="tel:+359882729591">
+  <img src="https://img.shields.io/badge/0882_729_591-0F2038?style=for-the-badge&logo=whatsapp&logoColor=2FB8AC" alt="Phone" />
 </a>
 
 </div>
